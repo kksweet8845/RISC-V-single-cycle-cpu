@@ -1,0 +1,364 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/School/CO/HW3/F74064054/src
+vadder
+Z0 !s110 1606532246
+!i10b 1
+!s100 >3bjWCV^]Z467;ZMn019>2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVe3R5VH<I9XV=lD=Z]:WA2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/home/nober/git/CO/HW4/F74064054/src
+Z4 w1589418165
+Z5 8CPU.v
+Z6 FCPU.v
+!i122 2
+L0 631 11
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1606532246.000000
+Z9 !s107 SRAM.v|CPU.v|/home/nober/git/CO/HW4/F74064054/src/top.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|/home/nober/git/CO/HW4/F74064054/src/top.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vALU
+R0
+!i10b 1
+!s100 _MeQ>19ke2Nj;jJSLBb4m3
+R1
+I_=]97X3il7hazZGF9?0kH1
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 644 51
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@a@l@u
+vALUController
+R0
+!i10b 1
+!s100 CE6I4S898e5gIT]UUDT]j3
+R1
+IY22P6DfkhXG?BnVM:6cND3
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 462 125
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@a@l@u@controller
+vBranchController
+R0
+!i10b 1
+!s100 K2lSZTk37YGQVTjCNz^2Y1
+R1
+I4a2dNUfcnQ2baTXTYZ08o3
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 732 21
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@branch@controller
+vCPU
+R0
+!i10b 1
+!s100 =[>GTo`P`=m2CE`dUM7LP2
+R1
+IUT00m3EA[i]5nBR4g@HdG1
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 3 231
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@c@p@u
+vDataMem
+R0
+!i10b 1
+!s100 =5>dSNV149:8oh<GoQLa^2
+R1
+I>U5U4eJO6L6?G=<TahJmT3
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 698 32
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@data@mem
+vdecoder
+R0
+!i10b 1
+!s100 lFEQ6fH3^iV5Ta70N^0<K2
+R1
+IIV3DOXzD8V6TYQ7=4OTV20
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 259 120
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vdistributer
+R0
+!i10b 1
+!s100 J=O7HG=1[Kbf5I98Q@lRl2
+R1
+IFei=YdQ`Lf:5gfNoE7]]D0
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 236 21
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vImmGen
+R0
+!i10b 1
+!s100 eSAeSAj^T=]8k1iYe1[@M3
+R1
+I;Rh[4ZiH94AF48>6QL9Y00
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 423 36
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@imm@gen
+vmux_binary
+R0
+!i10b 1
+!s100 oWA9bLX]I6Bm[:_LHPARm2
+R1
+IFFdbK_92L17GJABf[O6ez3
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 589 16
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux_triple
+R0
+!i10b 1
+!s100 2hg8`J2R6YUnc[Ae7X?KE2
+R1
+I;lUb[O<GSTTXUh`Kf3]7P2
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 607 22
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vregisterFile
+R0
+!i10b 1
+!s100 4EX5mV`To3E1jTU@K1g3`0
+R1
+IV<8NKWH5_zE`<DO<Jz7YD3
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 380 40
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nregister@file
+vSRAM
+R0
+!i10b 1
+!s100 CGNIF0AYXClc7Igo9bEfK3
+R1
+ILNj>Qozz=Pdj0CPbT3]jX1
+R2
+R3
+w1548264530
+8SRAM.v
+FSRAM.v
+!i122 2
+L0 3 44
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@s@r@a@m
+vtop
+R0
+!i10b 1
+!s100 akhXR=HE9[J0gVkM[<5`73
+R1
+I^n>ZJ=8bSca4:i;Az@RZK3
+R2
+R3
+w1548265436
+8/home/nober/git/CO/HW4/F74064054/src/top.v
+F/home/nober/git/CO/HW4/F74064054/src/top.v
+!i122 2
+L0 6 48
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtop_tb
+R0
+!i10b 1
+!s100 eUQI]UW>aN9E<oDX7J`PL3
+R1
+IF2>iT9<cYh]Kk7z3Q^=YS2
+R2
+R3
+w1606532137
+8/home/nober/git/CO/HW4/F74064054/src/top_tb.v
+F/home/nober/git/CO/HW4/F74064054/src/top_tb.v
+!i122 3
+L0 14 117
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/nober/git/CO/HW4/F74064054/src/top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/nober/git/CO/HW4/F74064054/src/top_tb.v|
+!i113 1
+R11
+R12

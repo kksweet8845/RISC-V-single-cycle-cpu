@@ -1,0 +1,53 @@
+D:/School/CO/HW4/F74064054/src/SRAM.v {1 {vlog -work work -stats=none D:/School/CO/HW4/F74064054/src/SRAM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} D:/School/CO/HW4/F74064054/src/top.v {1 {vlog -work work -stats=none D:/School/CO/HW4/F74064054/src/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+-- Compiling module distributer
+-- Compiling module decoder
+-- Compiling module registerFile
+-- Compiling module ImmGen
+-- Compiling module ALUController
+-- Compiling module mux_binary
+-- Compiling module mux_triple
+-- Compiling module adder
+-- Compiling module ALU
+-- Compiling module DataMem
+-- Compiling module BranchController
+-- Compiling module SRAM
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/School/CO/HW4/F74064054/src/CPU.v {1 {vlog -work work -stats=none D:/School/CO/HW4/F74064054/src/CPU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+-- Compiling module distributer
+-- Compiling module decoder
+-- Compiling module registerFile
+-- Compiling module ImmGen
+-- Compiling module ALUController
+-- Compiling module mux_binary
+-- Compiling module mux_triple
+-- Compiling module adder
+-- Compiling module ALU
+-- Compiling module DataMem
+-- Compiling module BranchController
+
+Top level modules:
+	CPU
+
+} {} {}} D:/School/CO/HW4/F74064054/src/top_tb.v {1 {vlog -work work -stats=none D:/School/CO/HW4/F74064054/src/top_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}}
